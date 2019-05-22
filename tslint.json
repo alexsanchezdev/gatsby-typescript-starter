@@ -1,0 +1,12 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["tslint:latest", "tslint-react", "tslint-config-prettier"],
+  "jsRules": {},
+  "rules": {
+    "semicolon": false,
+    "ordered-imports": false,
+    "no-console": true,
+    "trailing-comma": true
+  },
+  "rulesDirectory": []
+}
